@@ -1,0 +1,2 @@
+# FIFA-DataVisualization
+This project  was completed as a final project in a masters-level Visual Basic Programming course. This project uses Visual Basic programming to extract information from historical data about the FIFA World Cup. The project contains a VBA-generated graphical user interface and 3-dimensional graph modeling using Excel's toolbox. To access the project you must enable macros on the file and follow the provided PowerPoint file "Instructions.pptx".
